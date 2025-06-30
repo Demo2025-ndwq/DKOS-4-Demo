@@ -15,7 +15,7 @@
 include:
   - board: nice_nano_v2
     shield: vhd_left
-    artifact-name: vhd-dk68-dkos-4-left
+    artifact-name: vhd-dk48-dkos-4-left
   - board: nice_nano_v2
     shield: vhd_right
-    artifact-name: vdh-dk68-dkos-4-right
+    artifact-name: vhd-dk48-dkos-4-right
